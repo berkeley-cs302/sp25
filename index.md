@@ -1,13 +1,13 @@
 ---
 lang: en
-title: "CS 302: Spring 2024"
+title: "CS 302: Spring 2025"
 layout: default
 ---
 
 {:#calendar .bg-primary .text-light .p-3 .mb-3 .mt-3}
 ## **Tenative** Calendar
 
-**Class Meetings: 1-3pm, 606 Soda every Friday**
+**Class Meetings: 2-4pm, 606 Soda every Friday starting 2/7**
 
 Blank rows will be filled in soon, though topics may change based on
 need and guest speakers.
@@ -17,23 +17,14 @@ _Homework assignments which say "Spring 2023" at the top are last years versions
 {:.table .table-striped}
 | Week | Date | Class topic | Homework | Due Date |
 |:-----|------|-------------|:---------:|:---------:|
-| 1    | 1/19 | No Meeting | No Homework | (none) |
-| 2    | 1/26 | No Meetings | No Homework | (none) |
-| 3    | 2/02 | Info, 302 overview | No Homework | (none) |
-| 4    | 2/09 | Logistics & class formats | [Homework 1][hw1] | (due 2/14) |
-| 5    | 2/16 | Hiring and interviewing | [Homework 2][hw2] | (due 2/21) |
-| 6    | 2/23 | Exam writing and Lecturing | [Homework 3][hw3] | (due 2/28) |
-| 7    | 3/01 | Exams & Proctoring | [Homework 4][hw4] | (due 3/6) |
-| 8    | 3/08 | (TBD) Academic Misconduct (CSC guest) | [Homework 5][hw5] | (due TBD) |
-| 9    | 3/15 | DSP, Extensions, Incompletes | [Homework 6][hw6] | (due TBD) |
-| 10   | 3/22 | **No Class (SIGCSE)** | No Homework | (none) |
-| 11   | 3/31 | **Spring Break** | No Homework | (none) |
-| 12   | 4/01 | Grading for Equity | No HW | (Michael Messed up.) |
-| 13   | 4/12 | Accessibility & Inclusion | [Homework 7][hw7] | (due TBD) |
-| 14   | 4/19 | Logstics / a11y continued | [Homework 8][hw8] | (due TBD) |
-| 15   | 4/26 | Surveys & Final Grading | [Homework 9][hw9] | (due TBD) |
-| 16   | 5/03 | RRR Week | No Homework | (none) |
-| 17   | 5/12 | Finals Week | No Homework | (none) |
+| 1    | 1/23 | No Meeting | No Homework | (none) |
+| 2    | 1/30 | No Meetings | No Homework | (none) |
+| 3    | 2/07 | Info, 302 overview | No Homework | (none) |
+| 4    | 2/14 | Logistics & class formats | [Homework 1][hw1] | (due 21) |
+| 5    | 2/21 | Hiring and interviewing | [Homework 2][hw2] | (due 2/28) |
+| 6    | 2/28 | **No Class (SIGCSE)** | No Homework (TBD) | (none) |
+| 7    | 3/07 | Exam writing and Lecturing | [Homework 3][hw3] | (due 3/14) |
+| 8   | 3/08 | Guest Justin Hsia from UW <br> Exams & Proctoring | [Homework 4][hw4] | (due 3/6) |
 
 
 [hw1]: /sp24/hw/hw1
@@ -49,6 +40,20 @@ _Homework assignments which say "Spring 2023" at the top are last years versions
 [hw11]: https://docs.google.com/document/d/1qANVq4eq9awixuokGti2p6vLaaFDrnDv57wE0oonnb4/preview
 [hw12]: https://docs.google.com/document/d/1IEOIYp9W4NGJyCep1VDqUm_vJHjCAVXvlVrQzjsfZl4/preview
 [hw13]: https://docs.google.com/document/d/1zsj3UMsKjiz7Rc8m_W_UBQ2gkXkXI32s_KeJabqvzFw/preview
+
+<!--
+ | (TBD) Academic Misconduct (CSC guest) | [Homework 5][hw5] | (due TBD) |
+| 9    | 3/15 | DSP, Extensions, Incompletes | [Homework 6][hw6] | (due TBD) |
+| 10   | 3/22 | **No Class (SIGCSE)** | No Homework | (none) |
+| 11   | 3/31 | **Spring Break** | No Homework | (none) |
+| 12   | 4/01 | Grading for Equity | No HW | (Michael Messed up.) |
+| 13   | 4/12 | Accessibility & Inclusion | [Homework 7][hw7] | (due TBD) |
+| 14   | 4/19 | Logstics / a11y continued | [Homework 8][hw8] | (due TBD) |
+| 15   | 4/26 | Surveys & Final Grading | [Homework 9][hw9] | (due TBD) |
+| 16   | 5/03 | RRR Week | No Homework | (none) |
+| 17   | 5/12 | Finals Week | No Homework | (none) |
+
+-->
 
 <!--
 To make a link open in:
