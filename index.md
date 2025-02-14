@@ -24,17 +24,32 @@ _Homework assignments which say "Spring 2023" at the top are last years versions
 | 5    | 2/21 | Hiring and interviewing | [Homework 2][hw2] | (due 2/28) |
 | 6    | 2/28 | **No Class (SIGCSE)** | No Homework (TBD) | (none) |
 | 7    | 3/07 | Exam writing and Lecturing | [Homework 3][hw3] | (due 3/14) |
-| 8   | 3/08 | Guest Justin Hsia from UW <br> Exams & Proctoring | [Homework 4][hw4] | (due 3/6) |
+| 8    | 3/14 | Guest Justin Hsia from UW <br> Exams & Proctoring | [Homework 4][hw4] | (due 3/6) |
+| 9    | 3/21 | TBD: DSP, Extensions, Incompletes | [Homework 5][hw5] | (due TBD) |
+| 10   | 3/28 | **Spring Break** | No Homework | (none) |
+| 11   | 4/04 | Grading for Equity | [Homework 6][hw6] | (due TBD) |
+| 13   | 4/11 | Accessibility & Inclusion | [Homework 7][hw7] | (due TBD) |
+| 14   | 4/18 | Logstics / a11y continued | [Homework 8][hw8] | (due TBD) |
+| 15   | 4/25 | Surveys & Final Grading | [Homework 9][hw9] | (due TBD) |
+| 16   | 5/03 | TBD - RRR Week | No Homework | (none) |
+| 17   | 5/12 | Finals Week | No Homework | (none) |
+| 18   | 6/TBD | Pre-Summer Check-In | No Homework | (none) |
 
 
-[hw1]: /sp24/hw/hw1
-[hw2]: /sp24/hw/hw2
-[hw3]: /sp24/hw/hw3
-[hw4]: /sp24/hw/hw4
-[hw5]: /sp24/hw/hw5
-[hw6]: /sp24/hw/hw6
-[hw7]: /sp24/hw/hw7
-[hw8]: /sp24/hw/hw8
+[hw1]: /sp25/hw/hw1
+[hw2]: /sp25/hw/hw2
+[hw3]: /sp25/hw/hw3
+[hw4]: /sp25/hw/hw4
+[hw5]: /sp25/hw/hw5
+[hw6]: /sp25/hw/hw6
+[hw7]: /sp25/hw/hw7
+[hw8]: /sp25/hw/hw8
+[hw9]: /sp25/hw/hw9
+[hw10]: /sp25/hw/hw10
+[hw11]: /sp25/hw/hw11
+[hw12]: /sp25/hw/hw12
+[hw13]: /sp25/hw/hw13
+
 [hw9]: https://docs.google.com/document/d/1jpAWeLPtWuDehENO5zIx6UzT4z1OEyieAIP9UL85m1c/preview
 [hw10]: https://docs.google.com/document/d/1uVWoXn7HORUC7CCROphr9dq2hcsU-Kqx4W6MlQ5H4ow/preview
 [hw11]: https://docs.google.com/document/d/1qANVq4eq9awixuokGti2p6vLaaFDrnDv57wE0oonnb4/preview
@@ -42,17 +57,6 @@ _Homework assignments which say "Spring 2023" at the top are last years versions
 [hw13]: https://docs.google.com/document/d/1zsj3UMsKjiz7Rc8m_W_UBQ2gkXkXI32s_KeJabqvzFw/preview
 
 <!--
- | (TBD) Academic Misconduct (CSC guest) | [Homework 5][hw5] | (due TBD) |
-| 9    | 3/15 | DSP, Extensions, Incompletes | [Homework 6][hw6] | (due TBD) |
-| 10   | 3/22 | **No Class (SIGCSE)** | No Homework | (none) |
-| 11   | 3/31 | **Spring Break** | No Homework | (none) |
-| 12   | 4/01 | Grading for Equity | No HW | (Michael Messed up.) |
-| 13   | 4/12 | Accessibility & Inclusion | [Homework 7][hw7] | (due TBD) |
-| 14   | 4/19 | Logstics / a11y continued | [Homework 8][hw8] | (due TBD) |
-| 15   | 4/26 | Surveys & Final Grading | [Homework 9][hw9] | (due TBD) |
-| 16   | 5/03 | RRR Week | No Homework | (none) |
-| 17   | 5/12 | Finals Week | No Homework | (none) |
-
 -->
 
 <!--

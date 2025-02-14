@@ -4,9 +4,9 @@ title: Introduction
 number: 1
 permalink: /hw/hw1/
 layout: hw
-due_date: Wednesday, February 14, 2024
-peer_review_date: Friday, February 16, 2024
-responses_doc: https://docs.google.com/document/d/1-S5Lz2hitWqoMdFV2Zs6p_xafOuxLL-cxUqo4wKqoT0/edit
+due_date: Wednesday, February 19, 2024
+peer_review_date: Friday, February 21, 2024
+responses_doc: https://docs.google.com/document/d/1P0gkIe7zrb717Bxgersdd3sl6d_veND7lgaek_BRCSo/edit?tab=t.0
 ---
 
 ## Directions
