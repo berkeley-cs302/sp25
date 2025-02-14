@@ -12,7 +12,7 @@ layout: default
 Blank rows will be filled in soon, though topics may change based on
 need and guest speakers.
 
-_Homework assignments which say "Spring 2023" at the top are last years versions. The dates, and minor details will change!_
+_Homework assignments which say "Spring 2024" at the top are last years versions. The dates, and minor details will change!_
 
 {:.table .table-striped}
 | Week | Date | Class topic | Homework | Due Date |
@@ -20,11 +20,11 @@ _Homework assignments which say "Spring 2023" at the top are last years versions
 | 1    | 1/23 | No Meeting | No Homework | (none) |
 | 2    | 1/30 | No Meetings | No Homework | (none) |
 | 3    | 2/07 | Info, 302 overview | No Homework | (none) |
-| 4    | 2/14 | Logistics & class formats | [Homework 1][hw1] | (due 21) |
-| 5    | 2/21 | Hiring and interviewing | [Homework 2][hw2] | (due 2/28) |
+| 4    | 2/14 | Logistics & class formats | [Homework 1][hw1] | (due 19) |
+| 5    | 2/21 | Hiring and interviewing | [Homework 2][hw2] | (due 2/26) |
 | 6    | 2/28 | **No Class (SIGCSE)** | No Homework (TBD) | (none) |
-| 7    | 3/07 | Exam writing and Lecturing | [Homework 3][hw3] | (due 3/14) |
-| 8    | 3/14 | Guest Justin Hsia from UW <br> Exams & Proctoring | [Homework 4][hw4] | (due 3/6) |
+| 7    | 3/07 | Exam writing and Lecturing | [Homework 3][hw3] | (due TBD) |
+| 8    | 3/14 | Guest Justin Hsia from UW <br> Exams & Proctoring | [Homework 4][hw4] | (due TBD) |
 | 9    | 3/21 | TBD: DSP, Extensions, Incompletes | [Homework 5][hw5] | (due TBD) |
 | 10   | 3/28 | **Spring Break** | No Homework | (none) |
 | 11   | 4/04 | Grading for Equity | [Homework 6][hw6] | (due TBD) |
