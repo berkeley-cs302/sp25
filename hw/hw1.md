@@ -4,9 +4,10 @@ title: Introduction
 number: 1
 permalink: /hw/hw1/
 layout: hw
-due_date: Wednesday, February 19, 2024
-peer_review_date: Friday, February 21, 2024
+due_date: Wednesday, February 19, 2025
+peer_review_date: Friday, February 21, 2025
 responses_doc: https://docs.google.com/document/d/1P0gkIe7zrb717Bxgersdd3sl6d_veND7lgaek_BRCSo/edit?tab=t.0
+colleen_lewis_transcript_doc: https://docs.google.com/document/d/1Z-KQQvGDKv52M8kuK4Y9h4FFexwNcH2SMa0MvtvZDvI/edit?tab=t.0#heading=h.gjdgxs
 ---
 
 ## Directions
@@ -28,7 +29,7 @@ Please submit a screenshot of the completion screen (or confirmation email) to s
 CSEd Podcast: Colleen Lewis
 
 * [Audio Recording](https://sites.duke.edu/csedpodcast/2020/04/06/episode-6-colleen-lewis/)
-* [Transcript](https://docs.google.com/document/d/117-oDXIw_fiqMNHS-qD0pUpOmqHu-z2P46x4H8GOxcE/comment)
+* [Transcript]({{ page.colleen_lewis_transcript_doc }})
 
 This conversation was a question and answer with Colleen. Topics included: peer instruction, how she structures her lecture and class, how becoming a better and better teacher is a marathon, cheating on assignments, the pros and cons of splitting students based on prior experience, and where to hold office hours.
 
