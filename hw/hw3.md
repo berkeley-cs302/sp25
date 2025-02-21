@@ -4,9 +4,9 @@ title: Hiring Prep
 number: 1
 permalink: /hw/hw3/
 layout: hw
-due_date: Wednesday, February 29, 2024 (+ a few)
-peer_review_date: Friday, March 1, 2024
-responses_doc: https://docs.google.com/document/d/1yCunk2Zgfr3eopwufNhUTYHJ8b0TT-p1HFqiXHDceb4/edit
+due_date: Wednesday, March 5, 2025
+peer_review_date: Friday, March 7, 2025
+responses_doc:
 ---
 
 [hw3_app_template]: https://docs.google.com/forms/u/1/d/13z62w1GhtP_C2LstkUZCh7Y5SdKC30JZ8_SCUDYcxHo/edit?usp=drive_web
