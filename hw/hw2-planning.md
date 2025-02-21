@@ -6,14 +6,14 @@ layout: hw
 permalink: /hw/hw2/
 due_date: Wednesday, February 26, 2025
 peer_review_date: Friday, February 28, 2025
-responses_doc:
+responses_doc: https://docs.google.com/document/d/1DrUdiuSsLnJbT4gg4jB_yZbPEwMU7oiUmsZewlmZN_w/edit?tab=t.0
 ---
 
 <!-- Readings w/ responses -->
 
-[hw2_template]: https://docs.google.com/document/d/1ubZFa819iKRs6rg9LOHyCqCpWqt-SmQ7n9519a8a4sM/template/preview
-[hw2_design_issues]: https://drive.google.com/file/d/14Oa0nldrmOiluNyWw91e7MkkUgQroIfc/view
-[hw2_clancy_history]: https://drive.google.com/file/d/1gQhjNMoe_1qw1nJs5uip8m23Vs_ofqC-/view?usp=sharing
+[hw2_template]: https://docs.google.com/document/d/12qQakhfuSWPwiec6kqqCznc3IxxSueGdomamB8pXlYA/template/preview
+[hw2_design_issues]: https://drive.google.com/file/d/1u5Z9fBDAnrkyU6XzGWGg1myZZGmMxs0s/view
+[hw2_clancy_history]: https://drive.google.com/file/d/1u5Z9fBDAnrkyU6XzGWGg1myZZGmMxs0s/view?usp=share_link
 
 ## Creating your Summer Class Format
 

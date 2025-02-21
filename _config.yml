@@ -21,6 +21,11 @@ staff:
     pronouns: he/him
     email: ddgarcia@berkeley.edu
     role: co-instructor
+  - name: Victor Huang
+    image: images/todo.jpg
+    pronouns: he/him
+    email: vortic@berkeley.edu
+    role: reader
 
 
 # This should be shared view-only just to students.
