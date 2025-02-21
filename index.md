@@ -35,10 +35,24 @@ _Homework assignments which say "Spring 2024" at the top are last years versions
 | 17   | 5/12 | Finals Week | No Homework | (none) |
 | 18   | 6/TBD | Pre-Summer Check-In | No Homework | (none) |
 
+[hw1]: /sp25/hw/hw1
+[hw2]: /sp25/hw/hw2
+
+
+[hw3]: /sp25/404
+[hw4]: /sp25/404
+[hw5]: /sp25/404
+[hw6]: /sp25/404
+[hw7]: /sp25/404
+[hw8]: /sp25/404
+[hw9]: /sp25/404
+[hw10]: /sp25/404
+
 
 [hw1]: /sp25/hw/hw1
 [hw2]: /sp25/hw/hw2
-<!-- [hw3]: /sp25/hw/hw3
+<!--
+[hw3]: /sp25/hw/hw3
 [hw4]: /sp25/hw/hw4
 [hw5]: /sp25/hw/hw5
 [hw6]: /sp25/hw/hw6
@@ -48,7 +62,8 @@ _Homework assignments which say "Spring 2024" at the top are last years versions
 [hw10]: /sp25/hw/hw10
 [hw11]: /sp25/hw/hw11
 [hw12]: /sp25/hw/hw12
-[hw13]: /sp25/hw/hw13 -->
+[hw13]: /sp25/hw/hw13
+ -->
 
 [hw9]: https://docs.google.com/document/d/1jpAWeLPtWuDehENO5zIx6UzT4z1OEyieAIP9UL85m1c/preview
 [hw10]: https://docs.google.com/document/d/1uVWoXn7HORUC7CCROphr9dq2hcsU-Kqx4W6MlQ5H4ow/preview
