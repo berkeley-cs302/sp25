@@ -1,11 +1,12 @@
 ---
 lang: en
 title: Draft ½ of a Sample Exam
-number: 4
-permalink: /hw/hw4/
+number: 3
+permalink: /hw/hw3/
 layout: hw
-due_date: Wednesday, March 6, 2024 (+ a few)
-peer_review_date: Friday, March 8, 2024
+due_date: Wednesday, March 12, 2024
+
+peer_review_date: Friday, March 14, 2024
 responses_doc: https://docs.google.com/document/d/1KJI3VskWAegPHl7U3qUhUBsK1GrIBbYDb3-S_NEGa9A/edit
 ---
 

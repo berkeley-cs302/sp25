@@ -1,18 +1,19 @@
 ---
 lang: en
 title: Hiring Prep
-number: 1
+number: 3
 permalink: /hw/hw3/
 layout: hw
-due_date: Wednesday, March 5, 2025
-peer_review_date: Friday, March 7, 2025
+due_date: Wednesday, March 12, 2025
+peer_review_date: Friday, March 14, 2025
 responses_doc:
+published: false
 ---
 
-[hw3_app_template]: https://docs.google.com/forms/u/1/d/13z62w1GhtP_C2LstkUZCh7Y5SdKC30JZ8_SCUDYcxHo/edit?usp=drive_web
+<!-- [hw3_app_template]: https://docs.google.com/forms/u/1/d/13z62w1GhtP_C2LstkUZCh7Y5SdKC30JZ8_SCUDYcxHo/edit?usp=drive_web
 [hw3_folder]: https://drive.google.com/drive/u/1/folders/1jX-n9gPB_08hcasI5mnQGbmz4ku7CLSV
 [mind_of_undergrad_ta]: https://drive.google.com/file/d/1DP16w5Yr_SUvBoAPK5aHATC0-yqBiLLr/view?usp=share_link
-[ksm_staff_organization]: https://drive.google.com/file/d/1tKyB1hQomCeQhgJ3OqVciTle2UB29iJN/view?usp=share_link
+[ksm_staff_organization]: https://drive.google.com/file/d/1tKyB1hQomCeQhgJ3OqVciTle2UB29iJN/view?usp=share_link -->
 
 ---
 
