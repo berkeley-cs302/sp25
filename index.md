@@ -25,12 +25,12 @@ _Homework assignments which say "Spring 2024" at the top are last years versions
 | 6    | 2/28 | **No Class (SIGCSE)** | (none) | (none) |
 | 7    | 3/07 | Exam writing | [Homework 3][hw3] | (due 3/12) |
 | 8    | 3/14 | Guest Justin Hsia from UW | [Homework 4][hw4] | (due TBD) |
-| 9    | 3/21 | Grading for Equity & A's for All... | [Homework 5][hw5] | (due TBD) |
+| 9    | 3/21 | Grading for Equity & A's for All... | none | none |
 | 10   | 3/28 | **Spring Break** | No Homework | (none) |
-| 11   | 4/04 | TBD: DSP, Extensions, Incompletes | [Homework 6][hw6] | (due TBD) |
-| 13   | 4/11 | Accessibility & Inclusion | [Homework 7][hw7] | (due TBD) |
-| 14   | 4/18 | Logstics / a11y continued | [Homework 8][hw8] | (due TBD) |
-| 15   | 4/25 | Surveys & Final Grading | [Homework 9][hw9] | (due TBD) |
+| 11   | 4/04 | DSP, Extensions, Incompletes | [Homework 5][hw5] | (due 4/09) |
+| 13   | 4/11 | Accessibility & Inclusion | [Homework 6][hw6] | (due TBD) |
+| 14   | 4/18 | Logstics / a11y continued | [Homework 7][hw7] | (due TBD) |
+| 15   | 4/25 | Surveys & Final Grading | [Homework 8][hw8] | (due TBD) |
 | 16   | 5/03 | TBD - RRR Week | No Homework | (none) |
 | 17   | 5/12 | Finals Week | No Homework | (none) |
 | 18   | 6/TBD | Pre-Summer Check-In | No Homework | (none) |
