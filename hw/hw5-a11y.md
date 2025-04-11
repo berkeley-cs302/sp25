@@ -7,7 +7,7 @@ permalink: /hw/hw5/
 layout: hw
 due_date: Wednesday, April 17, 2024
 peer_review_date: Friday, April 19, 2024
-responses_doc: https://docs.google.com/document/d/1sHZzfMqse7JItwiY_OFD6ZLaNpH_gpQJjlL5DX2LmwI/edit
+responses_doc: https://docs.google.com/document/d/1Y-WDIqxd3zMuGOFo8HmZ16R07CvghrcyiXmV6eCMbg4/edit?tab=t.0#heading=h.gjdgxs
 ---
 
 [grading_for_equity_transcript]: https://docs.google.com/document/d/1y9A79IVQBs0I_g6TUce1YJK7rMhjusf8/edit#heading=h.gjdgxs
@@ -15,7 +15,7 @@ responses_doc: https://docs.google.com/document/d/1sHZzfMqse7JItwiY_OFD6ZLaNpH_g
 
 Your class will be uniquely filled with students who are all different. We want our courses to be accessible to all students taking them. In this homework you will dig more into accessibility and inclusivity and audit your course/past iterations of your course to find areas to improve.
 
-## Audit \#1 Accessibility/Keyboard test of Website
+## Audit \#1: Accessibility/Keyboard test of Website
 
 This audit will check your website for accessibility issues, like those faced by students using a screen reader or just a keyboard with no mouse.
 
@@ -48,19 +48,23 @@ On the responses document, write up results for each step. Be sure to mention an
 There should be 1 writeup per step per course.
 See if you can fix any of these issues this semester. (Definitely aim to get the top issues fixed by the course starts this summer if you are teaching a class.)
 
-## Audit \#2 :Content of One Piece of Content Per Teammate
+## Audit \#2: Content of One Piece of Content Per Teammate
 
 This audit will check your content for inclusivity.
 
 First, to familiarize yourself with inclusivity on content, read (no need to comment):
 
-- [_CS Content Inclusivity Guide_](https://docs.google.com/document/d/1LbMwoG19dLyn2PacB2ZRsXg1-HgS0txOL02GjKNSHHw/edit#heading=h.snwazixs4a7s) (by Pamela Fox)
-- [_Using Inclusive Language_](https://drive.google.com/file/d/1lo2V-FwH7Cf8sOLYGvyZH4ioxQ8PnNZX/view) (Terms to avoid)
-- [_Suggested Best Practices_](https://docs.google.com/document/d/1NvmF4HXH3-Zi0W1p4vYwHG4TWfV2EWN76HN3faZTYpY/edit) (by Zephyr Barkan)
+- [_CS Content Inclusivity Guide_](https://docs.google.com/document/d/1hSTI0Pljrb3fglKi6xvvcQYzKnDgLfaXMv-POTj6KSc/edit?tab=t.0#heading=h.snwazixs4a7s) (by Pamela Fox)
+- [_Using Inclusive Language_](https://drive.google.com/file/d/1HdN_vQVxYYx0QITzmbgB-O5yxbO0z6gi/view) (by Pamela Fox)
+- [_Suggested Best Practices_](https://docs.google.com/document/d/1UdNfx5uxZ3LV54El94hz4T6UWuG9gv-p4rPlPc0lukg/edit?tab=t.0#heading=h.2381w19ws52d) (by Zephyr Omaly, Caroline Liu, Vron Vance, and Kellyann Ye)
 - Bonus: [_https://alexjs.com/_](https://alexjs.com/)
 
 For each p, pick a different piece of content on the scale of a homework assignment, lab assignment, lecture, textbook chapter, exam, etc, where you can find at least one thing to change to make it more inclusive and accessible. Write up on the responses document what you would change and why you are changing it.
 
+## Audit \#3: Inclusivity of Syllabus
+Now that each of you have learned about accessibility and inclusivity, work as a team to carefully go through your syllabus and audit the wording. Imagine how different students would read and what their reactions would be (low confidence students, high confidence students, those with lots of programming experience, those with little experience, etc).
+
+Find a few things to improve about your syllabus and write it up as a team in the responses document.
 
 ## Required listening/Reading
 
