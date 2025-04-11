@@ -11,8 +11,9 @@ responses_doc: https://docs.google.com/document/d/1wJqexvjZCJPWSrJNxOc9byqxyR-XO
 
 [learning_environments]: https://drive.google.com/drive/u/1/folders/1kSg75QcfFhbJVZJ_byRNqYsn5MnFLfrs
 [misconceptions]: https://drive.google.com/file/d/1KqnD7ZgA8WqiikPGY1Z7FL70EYmf2Q4E/view?usp=sharing
+[blank_syllabus]: https://docs.google.com/document/d/1qANVq4eq9awixuokGti2p6vLaaFDrnDv57wE0oonnb4/edit#heading=h.3j8x5g7z1b5d
 
-# Draft a Syllabus / Course Policies
+# Draft a Syllabus & Course Policies
 
 The assignment for this week is to do a nearly complete draft of your course _syllabus_, which is dfferent from a list of topics.
 
