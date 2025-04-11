@@ -38,8 +38,8 @@ _Homework assignments which say "Spring 2024" at the top are last years versions
 [hw1]: /sp25/hw/hw1
 [hw2]: /sp25/hw/hw2
 [hw3]: /sp25/hw/hw3
-[hw4]: /sp25/404
-[hw5]: /sp25/404
+[hw4]: /sp25/hw/hw4
+[hw5]: /sp25/hw/hw5
 [hw6]: /sp25/404
 [hw7]: /sp25/404
 [hw8]: /sp25/404
