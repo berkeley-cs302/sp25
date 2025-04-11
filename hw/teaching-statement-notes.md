@@ -20,4 +20,4 @@ Omar Ibrahim: https://omaryibrahim.me/tf-app-materials omaryibrahim.me
 Travis McGaha
  Here is a link to the materials I have from when I first went on the job market and for my recent promotion to senior lecturer: https://www.cis.upenn.edu/~tqmcgaha/assets/teaching_materials/
 Michael Ball -- full promo packet:
-https://drive.google.com/drive/folders/18I215P5Qk3f2Kvx1Jq0NCXE79fdoLuqV?usp=sharing
+  https://docs.google.com/document/d/17lscByaLtKtEOM1O8wRNr7d6y28CppUCTROPLWEZn38/edit?usp=sharing

@@ -23,14 +23,14 @@ _Homework assignments which say "Spring 2024" at the top are last years versions
 | 4    | 2/14 | Logistics | [Homework 1][hw1] | (due 2/19) |
 | 5    | 2/21 | Lecturing and Class formats | [Homework 2][hw2] | (due 2/26) |
 | 6    | 2/28 | **No Class (SIGCSE)** | (none) | (none) |
-| 7    | 3/07 | Exam writing | [Homework 3][hw3] | (due 3/12) |
-| 8    | 3/14 | Guest Justin Hsia from UW | [Homework 4][hw4] | (due TBD) |
-| 9    | 3/21 | Grading for Equity & A's for All... | none | none |
-| 10   | 3/28 | **Spring Break** | No Homework | (none) |
-| 11   | 4/04 | DSP, Extensions, Incompletes | [Homework 5][hw5] | (due 4/09) |
-| 13   | 4/11 | Accessibility & Inclusion | [Homework 6][hw6] | (due TBD) |
-| 14   | 4/18 | Logstics / a11y continued | [Homework 7][hw7] | (due TBD) |
-| 15   | 4/25 | Surveys & Final Grading | [Homework 8][hw8] | (due TBD) |
+| 7    | 3/07 | Exam writing | [Homework 3 - Exam Draft Part 1][hw3] | (due 3/12) |
+| 8    | 3/14 | Guest Justin Hsia from UW | [Homework 4 - Exam Draft Part 2][hw4] | (not assigned) |
+| 9    | 3/21 | Grading for Equity & A's for All... | (none) | (none) |
+| 10   | 3/28 | **Spring Break** | (none) | (none) |
+| 11   | 4/04 | DSP, Extensions, Incompletes | (none) | (none) |
+| 13   | 4/11 | Accessibility & Inclusion |[Homework 5 - Accessibility Audit][hw5] | (due 4/16) |
+| 14   | 4/18 | Logstics / a11y continued | [Homework 6 - Course Policies][hw6] | (due 4/23) |
+| 15   | 4/25 | Surveys & Final Grading | [Homework 7][hw7] | (due 4)/30 |
 | 16   | 5/03 | TBD - RRR Week | No Homework | (none) |
 | 17   | 5/12 | Finals Week | No Homework | (none) |
 | 18   | 6/TBD | Pre-Summer Check-In | No Homework | (none) |

@@ -1,12 +1,12 @@
 ---
 lang: en
 title: Drafting Course Policies
-number: 5
-permalink: /hw/hw5/
+number: 6
+permalink: /hw/hw6/
 layout: hw
-due_date: Wednesday, April 09, 2024
-peer_review_date: Friday, April 11, 2024
-responses_doc: https://docs.google.com/document/d/1wJqexvjZCJPWSrJNxOc9byqxyR-XOjpxzBZFBtgJ0mc/edit
+due_date: Wednesday, April 23, 2024
+peer_review_date: Friday, April 25, 2024
+responses_doc: https://docs.google.com/document/d/X/edit
 ---
 
 [learning_environments]: https://drive.google.com/drive/u/1/folders/1kSg75QcfFhbJVZJ_byRNqYsn5MnFLfrs

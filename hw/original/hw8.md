@@ -8,8 +8,6 @@ CS302, Spring 2023
 
 **Responses:** [**<u>Document</u>**](https://docs.google.com/document/d/19EkEPsB4Xnv_5y4UcVJBTB2zMq6ruZbwjPEc-hmzHug/edit#)
 
----
-
 Your class will be uniquely filled with students who are all different. We want our courses to be accessible to all students taking them. In this homework you will dig more into accessibility and inclusivity and audit your course/past iterations of your course to find areas to improve.
 
 ## Audit \#1 Accessibility/Keyboard test of Website
