@@ -1,8 +1,9 @@
 ---
 lang: en
+published: true
 title: Accessibility & Inclusivity
-number: 7
-permalink: /hw/hw7/
+number: 5
+permalink: /hw/hw5/
 layout: hw
 due_date: Wednesday, April 17, 2024
 peer_review_date: Friday, April 19, 2024

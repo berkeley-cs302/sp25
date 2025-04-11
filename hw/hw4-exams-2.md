@@ -1,8 +1,9 @@
 ---
 lang: en
+published: true
 title: Draft Second ½ of a Sample Exam
-number: 5
-permalink: /hw/hw5/
+number: 4
+permalink: /hw/hw4/
 layout: hw
 due_date: Wednesday, March 13, 2024 (+ whatever you need, because we messed up...)
 peer_review_date: Friday, March 15, 2024 (+ some days)
