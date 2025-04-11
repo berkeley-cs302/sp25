@@ -10,7 +10,7 @@ peer_review_date: Friday, April 19, 2024
 responses_doc: https://docs.google.com/document/d/1Y-WDIqxd3zMuGOFo8HmZ16R07CvghrcyiXmV6eCMbg4/edit?tab=t.0#heading=h.gjdgxs
 ---
 
-[grading_for_equity_transcript]: https://docs.google.com/document/d/1y9A79IVQBs0I_g6TUce1YJK7rMhjusf8/edit#heading=h.gjdgxs
+[grading_for_equity_transcript]: https://docs.google.com/document/d/1GESh8UTxRLt1CcvM9OHwwxyfmPjKCgwpvwl86GpiRLY/comment
 [three_proposals_posts]: https://drive.google.com/file/d/1nSetm35_03U139DWyOvupyMkqK4AqXiQ/view?usp=share_link
 
 Your class will be uniquely filled with students who are all different. We want our courses to be accessible to all students taking them. In this homework you will dig more into accessibility and inclusivity and audit your course/past iterations of your course to find areas to improve.
