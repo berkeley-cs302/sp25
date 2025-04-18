@@ -30,9 +30,9 @@ _Homework assignments which say "Spring 2024" at the top are last years versions
 | 11   | 4/04 | DSP, Extensions, Incompletes | (none) | (none) |
 | 13   | 4/11 | Accessibility & Inclusion |[Homework 5 - Accessibility Audit][hw5] | (due 4/16) |
 | 14   | 4/18 | Logstics / a11y continued | [Homework 6 - Course Policies][hw6] | (due 4/23) |
-| 15   | 4/25 | Surveys & Final Grading | [Homework 7][hw7] | (due 4)/30 |
-| 16   | 5/03 | TBD - RRR Week | No Homework | (none) |
-| 17   | 5/12 | Finals Week | No Homework | (none) |
+| 15   | 4/25 | Surveys & Final Grading | [Homework 7 - Teaching Statements][hw7] | (due 4/30 )|
+| 16   | 5/02 | Teaching Statements & Careers | [Homework 8][hw8] | (none) |
+| 17   | 5/09 | No Class - RRR Week | No Homework | (none) |
 | 18   | 6/TBD | Pre-Summer Check-In | No Homework | (none) |
 
 [hw1]: /sp25/hw/hw1
