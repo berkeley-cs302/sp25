@@ -1,11 +1,11 @@
 ---
 lang: en
 title: Drafting Course Policies
-number: 6
-permalink: /hw/hw6/
+number: 7
+permalink: /hw/hw7
 layout: hw
-due_date: Wednesday, April 23, 2024
-peer_review_date: Friday, April 25, 2024
+due_date: Wednesday, May 7, 2024
+peer_review_date: Friday, May 9, 2024
 responses_doc: https://docs.google.com/document/d/X/edit
 ---
 
@@ -28,12 +28,15 @@ What student facing messaging will you have about Academic Honesty and Misconduc
 
 ## Draft a Syllabus with Course Policies
 
+In a new document, draft a set of course policies. You should include the following:
 
-<!-- ## Audit: Inclusivity of Syllabus
+* Grading system and the scale (e.g., points, curved, etc.)
+* The weight of each component (e.g., homework, exams, etc.)
+* Late policies (e.g., how many late days, if you will use flextensions, etc.)
+* Academic misconduct policy
+* Attendance policy
 
-Now that each of you have learned about accessibility and inclusivity, work as a team to carefully go through your syllabus and audit the wording. Imagine how different students would read and what their reactions would be (low confidence students, high confidence students, those with lots of programming experience, those with little experience, etc).
-
-Find a few things to improve about your syllabus and write it up as a team in the responses document. -->
+In the responses document, link to your syllabus and include a short explanation of your policies. Pick 2-3 policies that you think are most important (or novel) and explain why you chose them.
 
 ## Rubric (Do this for full credit)
 
@@ -42,4 +45,4 @@ Find a few things to improve about your syllabus and write it up as a team in th
 - (Team) Create and copy Academic Misconduct Policy in the responses document
 - (Individual) Left 1 or more comments on [<u>Misconceptions and Attitudes that Interfere with Learning to Program</u>][misconceptions].
 - (Individual) Left 1 or more comments on [<u>Design Issues for Learning Environments</u>][learning_environments].
-- (Due 10:00 AM Friday) (Individual) Left 1 or more comments on 2 other courses’ Academic Misconduct Policy on <u>responses document</u>.
+- (Due 2:00 PM Friday) (Individual) Left 1 or more comments on 2 other courses’ policy documents.
