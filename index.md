@@ -29,9 +29,9 @@ _Homework assignments which say "Spring 2024" at the top are last years versions
 | 10   | 3/28 | **Spring Break** | (none) | (none) |
 | 11   | 4/04 | DSP, Extensions, Incompletes | (none) | (none) |
 | 13   | 4/11 | Accessibility & Inclusion |[Homework 5 - Accessibility Audit][hw5] | (due 4/16) |
-| 14   | 4/18 | Logstics / a11y continued | [Homework 6 - Course Policies][hw6] | (due 4/23) |
-| 15   | 4/25 | Surveys & Final Grading | [Homework 7 - Teaching Statements][hw7] | (due 4/30 )|
-| 16   | 5/02 | Teaching Statements & Careers | [Homework 8][hw8] | (none) |
+| 14   | 4/18 | Logstics / a11y continued | (none) | (none) |
+| 15   | 4/25 | Teaching Statements & Careers | [Homework 6 - Teaching Statements][hw6] | (due 4/30 )|
+| 16   | 5/02 | Final Grading / Something Fun | [Homework 7 - Course Policies][hw7] | (due 5/9) | (none) |
 | 17   | 5/09 | No Class - RRR Week | No Homework | (none) |
 | 18   | 6/TBD | Pre-Summer Check-In | No Homework | (none) |
 
@@ -40,8 +40,8 @@ _Homework assignments which say "Spring 2024" at the top are last years versions
 [hw3]: /sp25/hw/hw3
 [hw4]: /sp25/hw/hw4
 [hw5]: /sp25/hw/hw5
-[hw6]: /sp25/404
-[hw7]: /sp25/404
+[hw6]: https://docs.google.com/document/d/1fztk5iGpgTHbOJn4PGeAFFQivfwYuSaiDxUmAEgTEmw/preview?tab=t.0
+[hw7]: /sp25/hw/hw7
 [hw8]: /sp25/404
 [hw9]: /sp25/404
 [hw10]: /sp25/404
