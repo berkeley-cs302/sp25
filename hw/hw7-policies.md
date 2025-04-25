@@ -2,7 +2,7 @@
 lang: en
 title: Drafting Course Policies
 number: 7
-permalink: /hw/hw7
+permalink: /hw/hw7/
 layout: hw
 due_date: Wednesday, May 7, 2024
 peer_review_date: Friday, May 9, 2024
